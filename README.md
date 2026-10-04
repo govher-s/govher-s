@@ -40,7 +40,7 @@
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=govher-s&hide_border=true&background=0D1117&stroke=0D1117&ring=F472B6&fire=F472B6&currStreakNum=FBCFE8&currStreakLabel=F472B6&sideNums=FBCFE8&sideLabels=FBCFE8&dates=9CA3AF" alt="GitHub streak" />
+    <img src="https://streak-stats.demolab.com?user=govher-s&hide_border=true&background=0D1117&stroke=0D1117&ring=F472B6&fire=F472B6&currStreakNum=FBCFE8&currStreakLabel=F472B6&sideNums=FBCFE8&sideLabels=FBCFE8&dates=9CA3AF&tz=America/Chicago" alt="GitHub streak" />
 </p>
 
 <p align="center">
